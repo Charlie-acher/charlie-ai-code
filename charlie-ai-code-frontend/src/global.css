@@ -1,0 +1,25 @@
+html,
+body,
+#app {
+  min-height: 100%;
+  margin: 0;
+  font-family: SimSun, "Songti SC", STSong, "Noto Serif SC", serif;
+}
+
+body,
+button,
+input,
+textarea,
+select,
+.ant-btn,
+.ant-input,
+.ant-input-affix-wrapper,
+.ant-form,
+.ant-dropdown,
+.ant-layout {
+  font-family: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
